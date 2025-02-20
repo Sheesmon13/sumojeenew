@@ -1,0 +1,355 @@
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .pt-100px {
+      padding-top: 80px;
+    }
+  }
+  @media only screen and (min-width: 768px) and (max-width: 991px) {
+    .pt-100px {
+      padding-top: 60px;
+    }
+  }
+  @media only screen and (max-width: 767px) {
+    .pt-100px {
+      padding-top: 50px;
+    }
+  }
+  @media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .pb-100px {
+      padding-bottom: 80px;
+    }
+  }
+  @media only screen and (min-width: 768px) and (max-width: 991px) {
+    .pb-100px {
+      padding-bottom: 60px;
+    }
+  }
+
+   @media(max-width:1199px){
+    .navbar-nav .nav-item a {
+      color: var(--color-black);
+      font-weight: 400;
+      font-size: 12px;
+  }
+  .img-sec-part {
+    position: relative;
+    margin: 0px 0px 0px 0px;
+}
+.content-img-sec {
+  margin-top: 0px;
+}
+  } 
+
+  @media only screen and (min-width: 767px) and (max-width: 991px) {
+    .sosmed-icon{
+      display: inline-flex;
+    }
+  }
+
+  @media(max-width:991px){
+
+    .product-seller-sec .best-seller{
+      margin-top: 30px;
+    }
+    .sec-content .h1-heading {
+      font-size: 45px;
+  }
+  .sec-content .gn-pgh {
+    line-height: 1.3;
+}
+.footer-main  .footer-address{
+    margin-bottom: 40px;
+  }
+  .footer-main  .footer-address h5 {
+    margin-bottom: 15px;
+}
+.footer-main  .footer-address p{
+  margin-top: 0px;
+}
+.footer-main .footer-area{
+  margin-bottom: 40px;
+}
+.footer-main .footer-follow-us h5{
+  margin-bottom: 10px;
+}
+.major-icons{
+  display: none;
+}
+.product-seller-sec{
+  padding: 0px 0px 30px 0px;
+}
+.product-left-img{
+  display: none;
+}
+.glow-content {
+  position: relative;
+ margin: 0px;
+}
+
+  } 
+
+  @media(max-width:767px){
+    .sec-content .h1-heading {
+      line-height: 1;
+        font-size: 33px;
+        margin-top: 10px;
+    }
+    .sec-content button{
+      width: 130px;
+      height: 40px;
+      line-height: 0%;
+    }
+    .icon-sec  .icon-box {
+      margin-bottom: 50px;
+  }
+  .featured-main-heading .main-subhead{
+    text-align: center;
+  }
+  .products-main-heading .main-subhead{
+    text-align: center;
+  }
+  .topbar-nav {
+    display: block;
+}
+.topbar-nav .info .info-item i {
+  margin-left: 0px;
+}
+.img-sec-part {
+  position: relative;
+  margin: 0px;
+}
+.img-sec-part{
+  margin-top: 20px;
+}
+.glow-content .main-head{
+  margin-top: 30px;
+}
+.glow-content .gen-btn{
+  text-align: left;
+}
+.content-img-sec {
+   padding: 40px 0px 50px 0px; 
+}
+  }
+
+  @media(max-width:575px){
+    .footer-main .footer-follow-us h5{
+      margin-top: 40px;
+    }
+  } 
+  
+  @media(max-width:575px){
+    .topbar-nav .info .info-item a{
+      display: none;
+  }
+  .sosmed-icon{
+    text-align: center;
+  }
+  .slider-content .slider-content-inner h1 {
+    font-weight: 800px;
+    font-size: 55px;
+    line-height: 1.0;
+}
+.home .swiper-container .swiper-next,
+ .home .swiper-container .swiper-prev {
+  display: none;
+}
+.shop-sidebar-wrap{
+  padding: 0px 10px 0px 10px;
+}
+
+  }
+
+  @media(max-width:450px){
+    .sec-content {
+      padding: 130px 10px 60px 80px;
+  }
+  .sec-content .h1-heading {
+    margin-bottom: 10px;
+  }
+
+}
+  
+  @media only screen and (max-width: 575px) {
+    .shop-category-area .shop-top-bar {
+      padding: 15px 10px 5px 30px;
+    }
+  }
+  .shop-category-area .shop-top-bar p {
+    margin: 0;
+  }
+  @media only screen and (max-width: 575px) {
+    .shop-category-area .shop-top-bar.d-flex {
+      display: block !important;
+    }
+  }
+  @media only screen and (max-width: 575px) {
+    .shop-select .nice-select {
+      max-width: 200px;
+    }
+  }  
+
+  @media only screen and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px) {
+    .breadcrumb-area {
+      padding-top: 80px;
+      padding-bottom: 80px;
+    }
+  }
+  @media only screen and (max-width: 575px) {
+    .breadcrumb-area {
+      padding-top: 60px;
+      padding-bottom: 60px;
+    }
+  }
+  @media only screen and (max-width: 575px) {
+    .breadcrumb-list {
+      margin-top: 20px;
+    }
+  }
+  
+
+
+  
+
+   /*  Cart */
+
+@media only screen and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px) {
+  .breadcrumb-area {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .cart-shiping-update-wrapper .cart-shiping-update > a,
+.cart-shiping-update-wrapper .cart-clear > button,
+.cart-shiping-update-wrapper .cart-clear > a {
+    padding: 18px 25px;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .cart-shiping-update-wrapper .cart-shiping-update > a,
+.cart-shiping-update-wrapper .cart-clear > button,
+.cart-shiping-update-wrapper .cart-clear > a {
+    padding: 18px 25px;
+    margin: 0 0 15px;
+  }
+}
+
+@media(max-width:768px) {
+  .grand-totall{
+      margin-top: 20px;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .cart-main-area .cart-shiping-update-wrapper {
+    display: block;
+    padding: 30px 0 15px;
+  }
+}
+
+@media only screen and (max-width: 575px) {
+  .breadcrumb-area {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+  .breadcrumb-list {
+      margin-top: 20px;
+    }
+}
+
+@media(max-width:992px){
+  .product-details-content h2{
+    margin-top: 20px;
+  }
+}
+@media only screen and (max-width: 767px) {
+
+}
+@media only screen and (max-width: 575px) {
+  .shop-category-area .shop-top-bar {
+    padding: 15px 10px 5px 30px;
+  }
+}
+@media only screen and (max-width: 575px) {
+  .shop-category-area .shop-top-bar.d-flex {
+    display: block !important;
+  }
+}
+@media only screen and (max-width: 575px) {
+  .shop-select .nice-select {
+    max-width: 200px;
+  }
+}
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .login-register-wrapper .login-form-container {
+    padding: 80px 50px;
+  }
+}
+@media only screen and (max-width: 767px) {
+
+}
+@media only screen and (max-width: 575px) {
+  .description-review-topbar.nav a {
+    margin: 0 15px;
+    font-size: 18px;
+  }
+}
+@media only screen and (max-width: 479px) {
+  .description-review-topbar.nav a {
+    margin: 0 5px;
+    font-size: 14px;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .description-review-bottom .ratting-form-wrapper {
+    margin-top: 50px;
+    padding: 0;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .description-review-bottom .ratting-form-wrapper {
+    margin-top: 50px;
+    padding: 0;
+  }
+  .slider-nav-style-1 .swiper-button-prev {
+    left: -15px;
+  }
+  .slider-nav-style-1 .swiper-button-next {
+    right: -15px;
+  }
+  .description-review-bottom .single-review {
+    display: block;
+  }
+  .description-review-bottom .single-review.child-review {
+    margin-left: 0;
+  }
+  .description-review-bottom .single-review .review-img {
+    margin: 0px 0px 20px 0px;
+  }
+  .description-review-topbar.nav a {
+    margin: 0 15px;
+  }
+  .product-details-content .pro-details-quality .pro-details-cart a {
+    padding: 0 30px;
+  }
+  .your-order-area .your-order-wrap {
+    padding: 38px 30px 44px;
+  }
+  .description-review-bottom .product-description-wrapper p {
+    width: 100%;
+  }
+  .login-register-wrapper .login-form-container {
+    padding: 40px 15px;
+  }
+  .shop-category-area .shop-top-bar {
+    margin-top: 0px;
+  }
+  .pb-100px {
+    padding-bottom: 50px;
+  }
+  .shop-category-area .shop-top-bar {
+    margin-top: 0px;
+  }
+}
+
+
